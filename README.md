@@ -1,0 +1,1 @@
+This is Weam's first git project!
